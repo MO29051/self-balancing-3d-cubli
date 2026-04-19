@@ -19,7 +19,6 @@
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
 
 **A reaction-wheel-based self-balancing cube**  
-**MSE464 – Automatic Control · Spring 2025 · MSA University · Faculty of Engineering**
 
 [Overview](#-overview) · [Math Model](#-mathematical-model) · [Hardware](#-hardware) · [Software](#-software) · [Wiring](#-wiring) · [Gallery](#-gallery) · [Results](#-results) · [Team](#-team)
 
@@ -29,9 +28,8 @@
 
 ## 📌 Overview
 
-The **2D Cubli** is a self-balancing cube that uses a **reaction wheel** to maintain its upright position on an edge. When the cube begins to tilt, the brushless motor accelerates a flywheel in the opposite direction, generating a counter-torque that brings the cube back to equilibrium — with no external support.
+The **3D Cubli** is a self-balancing cube that uses a **reaction wheel** to maintain its upright position on an edge. When the cube begins to tilt, the brushless motor accelerates a flywheel in the opposite direction, generating a counter-torque that brings the cube back to equilibrium — with no external support.
 
-This project was developed as part of **MSE464 – Automatic Control** at MSA University, supervised by **DR. Amgad Bayoumi**.
 
 **Key highlights:**
 - ✅ Real-time attitude estimation via **MPU-6050** (I²C, fused gyro + accelerometer)
