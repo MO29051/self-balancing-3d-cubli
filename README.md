@@ -460,7 +460,7 @@ cubli-esp32/
 ├── hardware/
 │   ├── 3d-models/
 │   │   ├── README.md                ← Print settings guide
-│   │   └── *.stl                    ← [ADD YOUR STL FILES HERE]
+│   │   └── *.stl                    ✅ 3D models complete — drop STL files here
 │   ├── pcb/
 │   │   ├── README.md                ← BOM + schematic notes
 │   │   └── schematic.png            ← [ADD YOUR SCHEMATIC IMAGE HERE]
@@ -533,7 +533,6 @@ Step 4: Only add Ki if there is steady-state offset — use very small values.
 - 📐 [Nonlinear Dynamics and Control of a Cube Robot – MDPI Mathematics, 2020](https://www.mdpi.com/2227-7390/8/10/1840)
 - 📦 [MPU6050_light Arduino Library](https://github.com/rfetick/MPU6050_light)
 - 📦 [ESP32Servo Library](https://github.com/madhephaestus/ESP32Servo)
-
 
 ---
 
