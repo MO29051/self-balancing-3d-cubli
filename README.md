@@ -1,4 +1,4 @@
-# ⬛ 2D Cubli — Self-Balancing Reaction-Wheel Cube
+# ⬛ 3D Cubli — Self-Balancing Reaction-Wheel Cube
 
 <!-- ============================================================
   📸 IMAGE PLACEHOLDER #1 — DEMO GIF (MOST IMPORTANT)
